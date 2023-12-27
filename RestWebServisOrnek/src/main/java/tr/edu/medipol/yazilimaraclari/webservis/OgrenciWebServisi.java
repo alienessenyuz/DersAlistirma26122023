@@ -10,7 +10,7 @@ public class OgrenciWebServisi {
     private static final List<String> OGRENCI_LISTESI = new ArrayList<>();
 
     static {
-        OGRENCI_LISTESI.add(new Ogrenci("Ali Veli", "2"));
+        OGRENCI_LISTESI.add(new Ogrenci("Ali Veli", "1"));
         OGRENCI_LISTESI.add(new Ogrenci("Ayse Fatma", "2"));
         OGRENCI_LISTESI.add(new Ogrenci("Mehmet Emin", "3"));
     }
